@@ -1,0 +1,79 @@
+@media screen and (max-width: 1000px) {
+    #restaurants-list li {
+width: 100%;
+    }
+}
+@media screen and (min-width: 1001px) and (max-width: 1500px) {
+    #restaurants-list li {
+width: 40.3%;
+    }
+}
+@media screen and (min-width: 1501px) and (max-width: 2000px) {
+    #restaurants-list li {
+width: 26.866%;
+    }
+}
+@media screen and (min-width: 2001px) and (max-width: 2500px) {
+    #restaurants-list li {
+width: 20.15%;
+    }
+}
+@media screen and (min-width: 2501px) and (max-width: 3000px) {
+    #restaurants-list li {
+width: 16.12%;
+    }
+}
+@media screen and (min-width: 3001px) and (max-width: 3500px) {
+    #restaurants-list li {
+width: 13.433%;
+    }
+}
+@media screen and (min-width: 3501px) and (max-width: 4000px) {
+    #restaurants-list li {
+width: 11.514%;
+    }
+}
+@media screen and (min-width: 4001px) and (max-width: 4500px) {
+    #restaurants-list li {
+width: 10.075%;
+    }
+}
+@media screen and (min-width: 4501px) and (max-width: 5000px) {
+    #restaurants-list li {
+width: 8.955%;
+    }
+}
+@media screen and (min-width: 5001px) {
+    #restaurants-list li {
+width: 8.06%;
+    }
+}
+@media screen and (min-width: 1001px) and (max-width: 2500px) {
+    #reviews-list li {
+        width: 45%;
+     
+    }
+  
+    
+   
+}
+@media screen and (min-width: 2501px) and (max-width: 4000px) {
+   #reviews-list li {
+       width: 22.5%;
+
+   }
+   
+   
+}
+@media screen and (min-width: 4001px) {
+   #reviews-list li {
+       width: 14%;
+
+   }
+   
+}
+
+
+
+
+/* if i changed screen width to 1000 or over than 1000px it will work */
